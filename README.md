@@ -65,7 +65,6 @@ EXIT: Optimal Solution Found.
  ---------------------------------------------------
  Solver         :  IPOPT (v3.12)
  Solution time  :  0.0423 sec
- Objective      :  2743.797724185546
  Successful solution
  ---------------------------------------------------
  '''
