@@ -9,14 +9,6 @@ Solving MPC problem...
  
  
  --------- APM Model Size ------------
- Each time step contains
-   Objects      :  0
-   Constants    :  0
-   Variables    :  4
-   Intermediates:  0
-   Connections  :  0
-   Equations    :  1
-   Residuals    :  1
  
  Number of state variables:    360
  Number of total equations: -  320
